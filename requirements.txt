@@ -1,1 +1,9 @@
 #ipykernal
+
+numpy
+pandas
+seaborn
+matplotlib
+scipy   
+scikit-learn
+chardet
