@@ -1,6 +1,6 @@
 done 1.Convert the dataset from CSV format to Excel. Divide the dataset into two separate datasets with "Customer_ID" as the primary key.
 2.Join the two datasets and find the best join type that works perfectly.
-3.introduce a "Date of Birth" column with random dates between 2010 and 2015.
+done 3.introduce a "Date of Birth" column with random dates between 2010 and 2015.
 4.Create three columns named "Date," "Month," and "Year" from the "Date of Birth" column.
 5.Calculate the present age of each individual.
 6.Find the ratio of divorce with respect to gender, occupation, age, etc.
