@@ -12,3 +12,4 @@ done 3.introduce a "Date of Birth" column with random dates between 2010 and 201
 12.Create a column named "Marital Status" with appropriate codes for single and divorced individuals. *FS for female single ,  ,FD female divorced , MS male single , MD male divorced*
 13. is Determine the number of executives in each category (male/female) and calculate their ratio to the total number of executives.
 14 .Determine the marital status in each category (male/female) and calculate their ratio to the total number of executives.
+done 15. impute null value
