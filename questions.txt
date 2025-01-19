@@ -8,8 +8,8 @@ done 5.Calculate the present age of each individual.  (as per DateOfBirth column
 8.Analyze the distribution of children in married and divorced categories, as well as by occupation and single/divorced status.
 9.Identify the relationship between occupation/designation and car ownership.
 10.Analyze the relationship between gender and car ownership.
-11.Create a new column for "Alias" with the initials of each individual's "Type of Contact."
-12.Create a column named "Marital Status" with appropriate codes for single and divorced individuals. *FS for female single ,  ,FD female divorced , MS male single , MD male divorced*
+done 11.Create a new column for "Alias" with the initials of each individual's "Type of Contact."
+done 12.Create a column named "Marital Status" with appropriate codes for single and divorced individuals. *FS for female single ,  ,FD female divorced , MS male single , MD male divorced*
 13. is Determine the number of executives in each category (male/female) and calculate their ratio to the total number of executives.
 14 .Determine the marital status in each category (male/female) and calculate their ratio to the total number of executives.
 done 15. impute null value
