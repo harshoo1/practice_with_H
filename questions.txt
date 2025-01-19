@@ -1,15 +1,15 @@
 done 1.Convert the dataset from CSV format to Excel. Divide the dataset into two separate datasets with "Customer_ID" as the primary key.
-2.Join the two datasets and find the best join type that works perfectly.
+done 2.Join the two datasets and find the best join type that works perfectly.
 done 3.introduce a "Date of Birth" column with random dates between 2010 and 2015.
 done 4.Create three columns named "Date," "Month," and "Year" from the "Date of Birth" column.
 done 5.Calculate the present age of each individual.  (as per DateOfBirth column introducd into the dataset )
-6.Find the ratio of divorce with respect to gender, occupation, age, etc.
-7.Determine the average number of children for both males and females.
-8.Analyze the distribution of children in married and divorced categories, as well as by occupation and single/divorced status.
-9.Identify the relationship between occupation/designation and car ownership.
-10.Analyze the relationship between gender and car ownership.
+done 6.Find the ratio of divorce with respect to gender, occupation, age, etc.
+done 7.Determine the average number of children for both males and females.
+done 8.Analyze the distribution of children in married and divorced categories, as well as by occupation and single/divorced status.
+done 9.Identify the relationship between occupation/designation and car ownership.
+done 10.Analyze the relationship between gender and car ownership.
 done 11.Create a new column for "Alias" with the initials of each individual's "Type of Contact."
 done 12.Create a column named "Marital Status" with appropriate codes for single and divorced individuals. *FS for female single ,  ,FD female divorced , MS male single , MD male divorced*
-13. is Determine the number of executives in each category (male/female) and calculate their ratio to the total number of executives.
-14 .Determine the marital status in each category (male/female) and calculate their ratio to the total number of executives.
+done 13. is Determine the number of executives in each category (male/female) and calculate their ratio to the total number of executives.
+done 14 .Determine the marital status in each category (male/female) and calculate their ratio to the total number of executives.
 done 15. impute null value
