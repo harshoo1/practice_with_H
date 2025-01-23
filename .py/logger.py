@@ -3,7 +3,6 @@ import functools
 import traceback
 
 def get_logger(name="app", log_file="app.log", level=logging.DEBUG):
-    """Returns a logger configured with the specified settings."""
     logger = logging.getLogger(name)
     logger.setLevel(level)
     
